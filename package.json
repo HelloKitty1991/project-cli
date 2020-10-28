@@ -1,5 +1,5 @@
 {
-  "name": "@klicen/cli",
+  "name": "@hello/cli",
   "version": "1.0.0",
   "bin": {
     "kcli": "index.js"
@@ -13,7 +13,7 @@
     "index.js",
     "package.json"
   ],
-  "author": "penganhua@klicen.com",
+  "author": "penganhua@hello.com",
   "license": "ISC",
   "dependencies": {
     "handlebars": "^4.7.6"
